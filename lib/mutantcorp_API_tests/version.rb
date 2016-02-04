@@ -1,0 +1,3 @@
+module MutantcorpAPITests
+  VERSION = "0.1.0"
+end
